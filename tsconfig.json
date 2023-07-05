@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "allowUnreachableCode": false,
+    "strict": true,
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "allowJs": true,
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
+    "target": "ES2018"
+  },
+  "include": ["./src/**/*.ts"],
+  "exclude": ["./node_modules/**"]
+}
